@@ -1,0 +1,14 @@
+programming server=>
+get=>
+res=>
+req=>
+3000,8000,7000,5173
+npx nodemon server.js=>changes ko save krti he
+npm=>package manager
+npx=>pacakage xecuter
+
+github pr kbhi bhi node modules file nh jati h or na hi '.eve' file
+jo chij hume github pr nhi bejni hoti uske liye hum ek file use krte he 
+===>gitignore 
+
+deploye a server=====>

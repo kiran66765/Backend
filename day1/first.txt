@@ -1,0 +1,30 @@
+how to run script outside the browser
+what are pakages=>
+ek asa code jisse humne nhi likha kisi or dev. ne likha but usne usse publicly available kr diya takko other dev bhi usse use kr ske
+how to install packages>>
+npm.js .com=>use packages=>bhout sare packages
+----->cat-me
+how to use packages
+
+
+
+//package.json==>main role -js ka code kon kon se package pr depend krta how
+===>as a dependencies=>cat-me=>"^1.0.3"
+
+
+node_modules==>
+
+package-lock.json==>humne ek package ko install kiya uski kuch dependenciecs h uski further kuch dependencies h and this loop is work till then a package that have independent
+
+what is server=>ek machine jiske pass khud ka operating process khud ki processor khud ki ram or storage
+but ye hamare laptop mobile se alg h beacuse=>
+server ek machine to h but isse iss trh se design kiya jata h ki user jo bhi request krega uska ek proper response dega
+
+create server with express
+--->npm init -y=>means ek node js application start krne vale he iss folder me
+
+
+create server=>use express=>ye easily server bnane deta hamareexpress ek package heye bhi npmjs pr he
+
+
+
