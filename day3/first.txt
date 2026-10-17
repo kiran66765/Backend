@@ -1,0 +1,13 @@
+understanding what are API=>a set of rules and protocals that allow diff software application to communicate with each other 
+REST API=>representational state transfer application programming interface=>mainly use in client server communcication means frontend and backend me use 
+protocal=>http and https
+rest api resources ke around bnayi jati 
+
+REST API two main rule=>1 protocal use hoga bo http or https hoga
+2. method on the basis of communication=>methods=>
+methods=>
+GET=>retrievs a resource or a list of resoures it does not modify data on the server(server se frontend side pr kuch bhi mangvana vo to get method ka use krte he)
+POST=>jab hume server side pr koi resource create krna ho 
+PUT=>jab hume resource ko update krna ho on server side
+PATCH => jab pura resource update na krna ho ek choota part update krna ho
+DELETE=> jab resource already server pr he or usse delete krna ho
